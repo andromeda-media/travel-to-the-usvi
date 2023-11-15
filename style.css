@@ -1,1 +1,13 @@
-
+      body {background-color:lightgreen; text-align:left;}
+			p {color:darkred; font-family:velveteca; font-size:17px;}
+			h1 {color:darkblue; font-family:velveteca; font-size:30px;}
+			h2 {color:darkblue; font-family:velveteca; font-size:25px}
+			td, th {border: 1px solid; text-align: left; padding:8px; font-family:velveteca;}
+			table {font-family: velveteca; border-collapse:width "100%";}
+			tr:nth-child(even) {background-color:lightblue;}
+			tr:nth-child(odd) {background-color:lightyellow;}
+			h4 {color:darkblue; font-family:velveteca; font-size:14}
+			.travel {text-align:center;}
+			li {font-size:23px}
+			#img {text-align:center;}
+			#thx {text-align:center; font-size:30px}
